@@ -1,7 +1,7 @@
 ﻿// C# program to find missing Number
 using System;
 
-class GFG
+class MISSING
 {
     // Function to ind missing number
     static int getMissingNo(int[] a, int n)
